@@ -1,0 +1,32 @@
+What does the Data Science (DS) subteam focus on?
+
+We work at the intersection of machine learning research and practical engineering to create systems that can solve problems that humans cannot, whether that is due to scalability or accuracy concerns. Our work ranges from natural language processing to computer vision and reinforcement learning. Examples of current efforts include automatic question answering, Poker / Wordle / Smash Bros playing bots, and Arxiv PDF math formula searching. We are proud of our robust educational series and our course, INFO 1998: Intro to Data Science. To keep up with the latest research we also hold biweekly paper reading groups and publish paper summaries on our blog. 
+
+What does the Data Engineering (DE) subteam focus on?
+
+Our focus is on the exploration and application of data engineering, including infrastructure, deployments, and data pipelines. Our members have worked on projects ranging from the creation and maintenance of CDS' own computer server cluster to automated profiling of geographic information systems. Current team objectives include the expansion of CDS infrastructure and the development of a Raspberry Pi cluster.
+
+What does the Quantitative Finance (QF) subteam focus on?
+
+Our goal is to explore the intersection of data science, statistics, and finance. More specifically, many of our projects involve using statistical and algorithmic models to analyze financial markets and securities. Our members have the freedom to explore any topic within quantitative finance, allowing for a diverse portfolio of projects. Previous projects range from developing a cloud-based trading bot to using weather data to predict orange juice futures prices.
+
+What does the Machine Learning Engineering (MLE) subteam focus on?
+
+We build infrastructure and systems that enable fast, efficient, and practical deployment of machine learning models. This spans exploring hardware optimizations, large scale big data tools, MLOps frameworks, and production level ML environments.
+
+Who is the sponsor for Data Science (DS)?
+
+The sponsor for DS is Killian Weinberger.
+
+Who is the sponsor for Data Engineering (DE)?
+
+The sponsor for DE is Immanuel Trummer.
+
+Who is the sponsor for Quantitative Finance (QF)?
+
+The sponsor for QF is Haym Hirsch.
+
+Who is the sponsor for Machine Learning Engineering (MLE)?
+
+The sponsor for MLE is Chris De Sa.
+
