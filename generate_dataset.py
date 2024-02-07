@@ -16,6 +16,8 @@ for filename in os.listdir(directory):
 
 ds = Dataset.from_dict(ds)
 ds = ds.train_test_split(test_size=0.1)
+print(ds)
+print("Completed generating dataset!")
 
 # can use load_from_disk to retrieve dataset from directory
 ds.save_to_disk("dataset.hf")
