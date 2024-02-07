@@ -1,8 +1,4 @@
 What is the official CDS email?
-
 Official Email: cornelldatascience@gmail.com 
-
 What are the important slack channels for CDS?
-
 These are the channels you should join in our slack: #cds-announcements, #cds-social, #cds-random, #cds-opportunities, #cds-course-recs
-

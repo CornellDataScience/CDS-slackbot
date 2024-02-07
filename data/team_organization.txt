@@ -1,39 +1,20 @@
 What are the subteams on CDS?
-
 You probably already know this from the information session, but our team is divided into four subteams: Data Engineering (DE), Data Science (DS), Machine Learning Engineering (MLE), Quantitative Finance (QF) 
-
 What are our subteams focused on?
-
 Our subteams are focused on industry-specific roles and industries within data science, machine learning, and software engineering. Each subteam has a series of lectures, workshops, and events in which they build up their knowledge base of their chosen topics. For example, QF has done private events with Millenium Management, and MLE/DE have done joint workshops on topics such as distributed systems and Kubernetes. \n Your subteam is your goto community within CDS – it’s where you’ll spend your time during your weekly meetings and work sessions and get to know other people on your project team really well. That being said, subteams are not the only way you should interact with people on CDS. We encourage members to interact with each other across subteams just as much as within subteams. The primary way we accomplish this is through our projects, which are cross-subteam, but we also accomplish this through the various full-team initiatives we have as an organization throughout the year. \n Each subteam has two leads. The leads are responsible for grading and also steering the subteam in the right direction for the year. It’s up to them to come up with lecture topics, schedule meetings, and ultimately drive the team forward each semester. 
-
 What are the projects on CDS?
-
 There’s an entire section dedicated to project structure and organization, from ideation through implementation. But for now, the key point is that projects are cross-subteam. In other words, all CDS projects are open to members of all subteams. This also reflects important values that show up in industry - no project will be staffed with only data engineers or data scientists. Projects have people from many different roles to accomplish the work their expertise empowers them to do. \n As a student organization, we obviously aren’t experts in any of these subjects, but our goal is to model industry as closely as we can and thus increase our productivity and learning. To meet this goal, our projects have two leaders: \n Technical Lead: Responsible for overseeing the technical aspects of project development, setting the technical strategy and architecture, ensuring the correct application of data science techniques and tools, and mentoring the technical team to deliver high-quality data solutions. \n Project Manager: Accountable for overall project delivery, managing resources, setting project timelines, coordinating between different stakeholders, managing risks, and ensuring that the project aligns with business goals and stakeholder expectations, while also possessing a strong understanding of data science to effectively communicate between the technical team and business stakeholders.
-
 What is the role of e-board on CDS?
-
 Our E-Board manages the logistics and overall organization of the project team each semester. All subteam leads are automatically considered E-Board members. In addition to the president and vice president, we have five chairs.
-
 What are chairs on CDS?
-
 Technical Chair: Responsible for technical resources within CDS (AWS Instances and GPUs) \n Onboarding Chair: In charge of onboarding new members \n Website Chair: Leads website development \n Social Chair: Plans full-team events, socials, and helps drive culture \n Fin/Corp Chair: Responsible for club finances in addition to acquiring corporate sponsorships \n Education Chair: Responsible for INFO 1998
-
 What is the role of the president and vice president?
-
 The president is responsible for the overall vision of the project team, focusing on the decisions that impact the team as whole and our outward appearance to the rest of the university. The vice president is responsible for many of the internal logistics of the project team, primarily running recruitment, planning full team meetings, and coordinating other important internal events. 
-
 What are the different types of meetings on CDS?
-
 Don’t have meetings without a purpose. If the goal is to socialize, then call it a social. \n But for real, putting meetings on people’s calendars and then wasting their time is a good way to get people to stop showing up to meetings, so make sure that meetings are intentional. Here are the types of meetings we regularly have as a project team. We have all-hands, subteam, and project meetings.
-
 What are all-hands/full-team meetings for?
-
 Full-team meetings occur about twice a month. These are where we go over important updates relevant to the team, discuss future changes to the club’s organization, and present progress on projects. It’s critical that everyone is here for these meetings - it really helps us stay on the same page throughout the semester, particularly at the important points. 
-
 What are subteam meetings for?
-
 These are the most common meetings (usually weekly). Your leads will coordinate all of the logistics. Generally, this meeting is a hybrid between a work session and a learning event. Learning events can include lectures, workshops, guest speakers, demos, paper readings, etc. The schedule will be decided on at the beginning of the semester. \n The rest of the time can be used for project work - we encourage you to use the rest of your subteam as a resource. They can be useful for walking through bugs and blockers in addition to helping you finish up tickets before your next project meeting. 
-
 What are project meetings for?
-
 These are also important meetings. They’ll usually be weekly and scheduled by your project manager. First semester CDS members will not join a project. They can, however, observe and learn. These meetings are usually much shorter, but can also include time for work sessions as needed. You can think of these being similar to a stand-up meeting in industry. \n Longer project meetings should be scheduled on an as-needed basis. This includes work sessions, design meetings, and more. 

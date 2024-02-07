@@ -11,22 +11,12 @@ What does the Quantitative Finance (QF) subteam focus on?
 Our goal is to explore the intersection of data science, statistics, and finance. More specifically, many of our projects involve using statistical and algorithmic models to analyze financial markets and securities. Our members have the freedom to explore any topic within quantitative finance, allowing for a diverse portfolio of projects. Previous projects range from developing a cloud-based trading bot to using weather data to predict orange juice futures prices.
 
 What does the Machine Learning Engineering (MLE) subteam focus on?
-
 We build infrastructure and systems that enable fast, efficient, and practical deployment of machine learning models. This spans exploring hardware optimizations, large scale big data tools, MLOps frameworks, and production level ML environments.
-
 Who is the sponsor for Data Science (DS)?
-
 The sponsor for DS is Killian Weinberger.
-
 Who is the sponsor for Data Engineering (DE)?
-
 The sponsor for DE is Immanuel Trummer.
-
 Who is the sponsor for Quantitative Finance (QF)?
-
 The sponsor for QF is Haym Hirsch.
-
 Who is the sponsor for Machine Learning Engineering (MLE)?
-
 The sponsor for MLE is Chris De Sa.
-
